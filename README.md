@@ -1,20 +1,4 @@
-Great — thanks for the screenshot! Since your project currently includes:
-
-- `app.py` (the Streamlit app)
-- `brain_tumor_model.h5` (the trained model)
-- `requirements.txt`
-
-I'll now create an **updated `README.md`** file with:
-
-- Project description
-- Setup instructions
-- Deployment instructions (with a placeholder for your Streamlit share link)
-- Info about the `.h5` model being large
-- Clean formatting
-
----
-
-### ✅ Final `README.md`
+### ✅ `README.md`
 
 ```markdown
 # 🧠 Brain Tumor Detection Model
