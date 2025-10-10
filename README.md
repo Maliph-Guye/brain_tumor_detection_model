@@ -2,6 +2,8 @@
 
 ```markdown
 # 🧠 Brain Tumor Detection Model
+View Live Demo: https://m-braintumor.streamlit.app/
+See presentation: https://gamma.app/docs/Brain-Tumor-Detection-Model-3ybohwr10tm6wpw
 
 A deep learning project for detecting brain tumors from brain scan images using a trained Convolutional Neural Network (CNN), deployed via a user-friendly Streamlit web app.
 
