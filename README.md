@@ -1,9 +1,10 @@
-### ✅ `README.md`
-
-```markdown
 # 🧠 Brain Tumor Detection Model
-View Live Demo: https://m-braintumor.streamlit.app/
-See presentation: https://gamma.app/docs/Brain-Tumor-Detection-Model-3ybohwr10tm6wpw
+
+### 🔗 Quick Access
+
+- [🚀 View Live Demo](https://m-braintumor.streamlit.app/)
+- [📊 View Pitch Deck](https://gamma.app/docs/Brain-Tumor-Detection-Model-3ybohwr10tm6wpw)
+
 
 A deep learning project for detecting brain tumors from brain scan images using a trained Convolutional Neural Network (CNN), deployed via a user-friendly Streamlit web app.
 
@@ -71,7 +72,7 @@ You can deploy the app on platforms like:
 ### 🔗 Live App Link
 
 > 📌 **Streamlit Deployment (Replace below with your actual link once deployed):**
-> 🌍 [https://your-username.streamlit.app](https://your-username.streamlit.app)
+> 🌍 [Live Demo](https://m-braintumor.streamlit.app/)
 
 ---
 
